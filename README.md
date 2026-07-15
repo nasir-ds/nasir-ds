@@ -130,7 +130,7 @@ nasir = {
 | 📧 **Email** | [nu0748312@gmail.com](mailto:nu0748312@gmail.com) |
 | 💼 **LinkedIn** | [nasir-ullah-khan-wazir](https://www.linkedin.com/in/nasir-ullah-khan-wazir-85b27a346) |
 | 🐙 **GitHub** | [@nasir-ds](https://github.com/nasir-ds) |
-| 🌐 **Portfolio** | [nasir-khan-portfolio-bay.vercel.app](nasir-khan-portfolio-bay.vercel.app) |
+| 🌐 **Portfolio** | [https://nasir-khan-portfolio-bay.vercel.app/](https://nasir-khan-portfolio-bay.vercel.app/) |
 
 </div>
 
