@@ -95,12 +95,12 @@ nasir = {
 
 | 🏆 Project | 📋 Description | 🔧 Stack |
 |---|---|---|
-| **Sales Prediction Model** | ML pipeline forecasting monthly sales with 94% accuracy | Python, XGBoost, Pandas |
-| **COVID-19 Dashboard** | Interactive Power BI dashboard for Pakistan COVID data | Power BI, Python, DAX |
-| **Image Classification CNN** | Deep learning CNN achieving 97.3% test accuracy | TensorFlow, Keras, NumPy |
-| **Customer Segmentation** | EDA + K-Means clustering on 50k+ customer records | Python, Seaborn, scikit-learn |
-| **Sentiment Analysis API** | BERT-based NLP model for Urdu/English sentiment | HuggingFace, FastAPI, Python |
-| **Retail Analytics DB** | PostgreSQL database with Tableau dashboard integration | PostgreSQL, Tableau, ETL |
+| **[JCIRS — Judicial Case Retrieval System](https://github.com/nasir-ds/jcirs-judicial-case-retrieval)** | AI-powered legal case retrieval system for Pakistan's judiciary using RAG architecture and ChromaDB. Final Year Project. | Python, RAG, ChromaDB, Streamlit |
+| **[CampusEats Analytics Dashboard](https://github.com/nasir-ds/campuseats-analytics-dashboard)** | Food analytics dashboard for campus food ordering with SQL querying, ML predictions, and interactive visualizations. | Python, Streamlit, SQLite, Plotly |
+| **[Pakistan Crime Analysis](https://github.com/nasir-ds/pakistan-crime-analysis)** | Exploratory data visualization of Pakistan's national crime statistics (2012–2017). | Pandas, Matplotlib, Seaborn |
+| **[Online Store Sales Analysis](https://github.com/nasir-ds/online-store-sales-analysis)** | End-to-end sales data analysis — data cleaning, EDA, and business insights. | NumPy, Pandas, Matplotlib |
+| **[Zomato Data Analysis](https://github.com/nasir-ds/zomato-data-analysis)** | EDA of Zomato restaurant data — customer engagement, ratings, pricing, and online ordering trends. | Pandas, Matplotlib, Seaborn |
+| **[Database Labs](https://github.com/nasir-ds/database-labs)** | Database Systems Lab work — Spring 2026. | SQL, Database Design |
 
 </div>
 
