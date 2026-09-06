@@ -1,89 +1,78 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nasir%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20%26%20Deep%20Learning%20Engineer%20%7C%20IMS%20Peshawar&descAlignY=55&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Nasir%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Deep%20Learning%20%26%20NLP%20Engineer&descAlignY=52&descAlign=50&descSize=18" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Turning+data+into+decisions+%F0%9F%A7%A0;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+the+future+with+Python+%26+PyTorch+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=60&lines=Building+neural+networks+with+PyTorch+%F0%9F%94%A5;Turning+raw+data+into+real+decisions+%F0%9F%93%8A;LSTM+%7C+NLP+%7C+Computer+Vision+%7C+Dashboards)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasir-ullah-khan-wazir-85b27a346)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nu0748312@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasir-ds)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://nasir-khan-portfolio-bay.vercel.app/)
+<a href="https://www.linkedin.com/in/nasir-ullah-khan-wazir-85b27a346"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nu0748312@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://nasir-khan-portfolio-bay.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=nasir-ds&label=Profile%20views&color=00d4ff&style=flat)
+<img src="https://komarev.com/ghpvc/?username=nasir-ds&label=Profile%20Views&color=00d4ff&style=for-the-badge"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<div align="center">
+<img src="https://raw.githubusercontent.com/nasir-ds/nasir-ds/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
-```python
-nasir = {
-    "name"        : "Nasir Khan",
-    "role"        : "Data Scientist & ML/Deep Learning Engineer",
-    "university"  : "IMS Peshawar — BSc Data Science",
-    "location"    : "Peshawar, KPK, Pakistan 🇵🇰",
-    "passions"    : ["Machine Learning", "Deep Learning", "NLP", "Dashboards"],
-    "currently"   : "Building deep learning models (PyTorch) & NLP projects",
-    "open_to"     : ["Internships", "Freelance Projects", "Research Collaborations"],
-    "fun_fact"    : "I argue with data until it tells me the truth 📊"
-}
-```
+<br/>
+
+## 🧠 About Me
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+
+- 🎓 BSc Data Science @ **IMS Peshawar**
+- 🔭 Currently building **deep learning & NLP models** in PyTorch
+- 🧪 Recently shipped: a **Bidirectional LSTM sentiment classifier** (86.84% accuracy) trained from scratch with GloVe embeddings
+- 🌱 Learning: **Transformers & attention mechanisms** (BERT fine-tuning is next)
+- 💬 Ask me about: ML pipelines, EDA, LSTMs, or Streamlit dashboards
+- 📫 Reach me: **nu0748312@gmail.com**
+- ⚡ Fun fact: I argue with data until it tells me the truth
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Machine Learning & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nasir-ds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=f5a623&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasir-ds&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,r,postgres,git,vscode,jupyter,fastapi&theme=dark" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasir-ds&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=f5a623&fire=f5a623&currStreakLabel=00d4ff)](https://github.com/nasir-ds)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=nasir-ds&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasir-ds&layout=compact&theme=synthwave&hide_border=true&langs_count=8"/></td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nasir-ds&theme=synthwave&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nasir-ds&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
 
 ---
@@ -92,74 +81,74 @@ nasir = {
 
 <div align="center">
 
-| 🏆 Project | 📋 Description | 🔧 Stack |
-|---|---|---|
-| **[🧠 IMDB Sentiment Analysis — Bi-LSTM](https://github.com/nasir-ds/imdb-sentiment-lstm)** | Bidirectional LSTM sentiment classifier built from scratch in PyTorch with pretrained GloVe embeddings. **86.84% test accuracy.** | PyTorch, LSTM, GloVe, NLP |
-| **[⚖️ JCIRS — Judicial Case Retrieval System](https://github.com/nasir-ds/jcirs-judicial-case-retrieval)** | AI-powered legal case retrieval system for Pakistan's judiciary using RAG architecture and ChromaDB. **Final Year Project.** | Python, RAG, ChromaDB, Streamlit |
-| **[🥔 Potato Disease Classification](https://github.com/nasir-ds/potato-disease-classification)** | CNN-based potato leaf disease classifier with a FastAPI backend and web interface. | CNN, TensorFlow, FastAPI |
-| **[🌾 Crop Recommendation Dashboard](https://github.com/nasir-ds/crop-recommendation-dashboard)** | Predicts the best crop from soil and climate data using Random Forest. **99.55% accuracy**, interactive dashboard. | Random Forest, Streamlit |
-| **[🎗️ Breast Cancer Prediction](https://github.com/nasir-ds/breast-cancer-prediction)** | Binary classification of tumors (Benign/Malignant) using Logistic Regression, with a Streamlit dashboard. | Logistic Regression, Streamlit |
-| **[🧬 Stroke Risk Prediction Dashboard](https://github.com/nasir-ds/stroke-risk-prediction-dashboard)** | End-to-end stroke risk prediction — EDA, feature engineering, imbalanced-classification handling (class weighting vs SMOTE), threshold tuning. | scikit-learn, Streamlit |
+<a href="https://github.com/nasir-ds/imdb-sentiment-lstm">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=imdb-sentiment-lstm&theme=synthwave&hide_border=true"/>
+</a>
+<a href="https://github.com/nasir-ds/jcirs-judicial-case-retrieval">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=jcirs-judicial-case-retrieval&theme=synthwave&hide_border=true"/>
+</a>
+<br/>
+<a href="https://github.com/nasir-ds/potato-disease-classification">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=potato-disease-classification&theme=synthwave&hide_border=true"/>
+</a>
+<a href="https://github.com/nasir-ds/crop-recommendation-dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=crop-recommendation-dashboard&theme=synthwave&hide_border=true"/>
+</a>
+<br/>
+<a href="https://github.com/nasir-ds/breast-cancer-prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=breast-cancer-prediction&theme=synthwave&hide_border=true"/>
+</a>
+<a href="https://github.com/nasir-ds/stroke-risk-prediction-dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=stroke-risk-prediction-dashboard&theme=synthwave&hide_border=true"/>
+</a>
 
 </div>
 
 <details>
-<summary><b>📂 View all projects</b></summary>
+<summary align="center"><b>📂 More projects</b></summary>
 <br/>
-
 <div align="center">
 
-| Project | Description |
-|---|---|
-| **[Heart Disease Predictor](https://github.com/nasir-ds/heart-disease-predictor)** | End-to-end heart disease prediction with EDA, feature engineering, and a Streamlit dashboard. |
-| **[CampusEats Analytics Dashboard](https://github.com/nasir-ds/campuseats-analytics-dashboard)** | Food analytics dashboard with SQL querying, ML predictions, and interactive visualizations. |
-| **[Online Retail Sales Analysis](https://github.com/nasir-ds/online-retail-sales-analysis)** | EDA of UK online retail sales — revenue, customers, trends, products, and returns. |
-| **[World Cup 2026 Analysis](https://github.com/nasir-ds/world-cup-2026-analysis)** | Exploratory analysis of 2026 World Cup match data — confederation performance, host advantage, tournament trends. |
-| **[Zomato Data Analysis](https://github.com/nasir-ds/zomato-data-analysis)** | EDA of Zomato restaurant data — customer engagement, ratings, pricing, and ordering trends. |
-| **[Online Store Sales Analysis](https://github.com/nasir-ds/online-store-sales-analysis)** | End-to-end sales data analysis — data cleaning, EDA, and business insights. |
-| **[Pakistan Crime Analysis](https://github.com/nasir-ds/pakistan-crime-analysis)** | Exploratory data visualization of Pakistan's national crime statistics (2012–2017). |
-| **[Database Labs](https://github.com/nasir-ds/database-labs)** | Database Systems Lab work — Spring 2026. |
+<a href="https://github.com/nasir-ds/heart-disease-predictor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=heart-disease-predictor&theme=synthwave&hide_border=true"/></a>
+<a href="https://github.com/nasir-ds/campuseats-analytics-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=campuseats-analytics-dashboard&theme=synthwave&hide_border=true"/></a>
+<br/>
+<a href="https://github.com/nasir-ds/online-retail-sales-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=online-retail-sales-analysis&theme=synthwave&hide_border=true"/></a>
+<a href="https://github.com/nasir-ds/world-cup-2026-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=world-cup-2026-analysis&theme=synthwave&hide_border=true"/></a>
+<br/>
+<a href="https://github.com/nasir-ds/zomato-data-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=zomato-data-analysis&theme=synthwave&hide_border=true"/></a>
+<a href="https://github.com/nasir-ds/online-store-sales-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=online-store-sales-analysis&theme=synthwave&hide_border=true"/></a>
+<br/>
+<a href="https://github.com/nasir-ds/pakistan-crime-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=pakistan-crime-analysis&theme=synthwave&hide_border=true"/></a>
 
 </div>
-
 </details>
 
 ---
 
-## 📈 Contribution Graph
-
-[![Nasir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nasir-ds&bg_color=0d1117&color=00d4ff&line=f5a623&point=ffffff&area=true&hide_border=true)](https://github.com/nasir-ds)
-
----
-
-## 🎓 Education & Certifications
-
-- 🏛️ **BSc Data Science** — Institute of Management Sciences (IMS), Peshawar *(2022 – Present)*
-- 📜 **Data Analysis with Python** — Kaggle Certified
-- 📜 **Machine Learning** — Coursera / Andrew Ng
-- 📜 **SQL for Data Science** — Coursera
-
----
-
-## 📫 Let's Connect
+## 📈 Activity Graph
 
 <div align="center">
-
-| Platform | Link |
-|---|---|
-| 📧 **Email** | [nu0748312@gmail.com](mailto:nu0748312@gmail.com) |
-| 💼 **LinkedIn** | [nasir-ullah-khan-wazir](https://www.linkedin.com/in/nasir-ullah-khan-wazir-85b27a346) |
-| 🐙 **GitHub** | [@nasir-ds](https://github.com/nasir-ds) |
-| 🌐 **Portfolio** | [nasir-khan-portfolio-bay.vercel.app](https://nasir-khan-portfolio-bay.vercel.app/) |
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nasir-ds&theme=synthwave&hide_border=true&area=true"/>
 </div>
 
 ---
 
+## 🎓 Education
+
+- 🏛️ **BSc Data Science** — Institute of Management Sciences (IMS), Peshawar *(2022–Present)*
+- 📜 Machine Learning (Coursera/Andrew Ng) · Data Analysis with Python (Kaggle) · SQL for Data Science (Coursera)
+
+---
+
 <div align="center">
 
-> *"Without data, you're just another person with an opinion."*
-> — W. Edwards Deming
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasir-ullah-khan-wazir-85b27a346)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nu0748312@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nasir-khan-portfolio-bay.vercel.app/)
+
+*"Without data, you're just another person with an opinion." — W. Edwards Deming*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
