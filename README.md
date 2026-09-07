@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Nasir%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Deep%20Learning%20%26%20NLP%20Engineer&descAlignY=52&descAlign=50&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=60&lines=Building+neural+networks+with+PyTorch+%F0%9F%94%A5;Turning+raw+data+into+real+decisions+%F0%9F%93%8A;LSTM+%7C+NLP+%7C+Computer+Vision+%7C+Dashboards)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Building+neural+networks+with+PyTorch+%F0%9F%94%A5;Turning+raw+data+into+real+decisions+%F0%9F%93%8A;LSTM+%7C+NLP+%7C+Computer+Vision+%7C+Dashboards)](https://git.io/typing-svg)
 
 <br/>
 
@@ -62,17 +62,13 @@
 
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=nasir-ds&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasir-ds&layout=compact&theme=synthwave&hide_border=true&langs_count=8"/></td>
+<td><img src="https://github-readme-stats-8n62hd71k-nasir-khan1.vercel.app/api?username=nasir-ds&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true"/></td>
+<td><img src="https://github-readme-stats-8n62hd71k-nasir-khan1.vercel.app/api/top-langs/?username=nasir-ds&layout=compact&theme=synthwave&hide_border=true&langs_count=8"/></td>
 </tr>
 </table>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasir-ds&theme=synthwave&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nasir-ds&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
 
 ---
@@ -82,24 +78,24 @@
 <div align="center">
 
 <a href="https://github.com/nasir-ds/imdb-sentiment-lstm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=imdb-sentiment-lstm&theme=synthwave&hide_border=true"/>
+<img src="https://github-readme-stats-8n62hd71k-nasir-khan1.vercel.app/api/pin/?username=nasir-ds&repo=imdb-sentiment-lstm&theme=synthwave&hide_border=true"/>
 </a>
 <a href="https://github.com/nasir-ds/jcirs-judicial-case-retrieval">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=jcirs-judicial-case-retrieval&theme=synthwave&hide_border=true"/>
+<img src="https://github-readme-stats-8n62hd71k-nasir-khan1.vercel.app/api/pin/?username=nasir-ds&repo=jcirs-judicial-case-retrieval&theme=synthwave&hide_border=true"/>
 </a>
 <br/>
 <a href="https://github.com/nasir-ds/potato-disease-classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=potato-disease-classification&theme=synthwave&hide_border=true"/>
+<img src="https://github-readme-stats-8n62hd71k-nasir-khan1.vercel.app/api/pin/?username=nasir-ds&repo=potato-disease-classification&theme=synthwave&hide_border=true"/>
 </a>
 <a href="https://github.com/nasir-ds/crop-recommendation-dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=crop-recommendation-dashboard&theme=synthwave&hide_border=true"/>
+<img src="https://github-readme-stats-8n62hd71k-nasir-khan1.vercel.app/api/pin/?username=nasir-ds&repo=crop-recommendation-dashboard&theme=synthwave&hide_border=true"/>
 </a>
 <br/>
 <a href="https://github.com/nasir-ds/breast-cancer-prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=breast-cancer-prediction&theme=synthwave&hide_border=true"/>
+<img src="https://github-readme-stats-8n62hd71k-nasir-khan1.vercel.app/api/pin/?username=nasir-ds&repo=breast-cancer-prediction&theme=synthwave&hide_border=true"/>
 </a>
 <a href="https://github.com/nasir-ds/stroke-risk-prediction-dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=stroke-risk-prediction-dashboard&theme=synthwave&hide_border=true"/>
+<img src="https://github-readme-stats-8n62hd71k-nasir-khan1.vercel.app/api/pin/?username=nasir-ds&repo=stroke-risk-prediction-dashboard&theme=synthwave&hide_border=true"/>
 </a>
 
 </div>
@@ -109,27 +105,19 @@
 <br/>
 <div align="center">
 
-<a href="https://github.com/nasir-ds/heart-disease-predictor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=heart-disease-predictor&theme=synthwave&hide_border=true"/></a>
-<a href="https://github.com/nasir-ds/campuseats-analytics-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=campuseats-analytics-dashboard&theme=synthwave&hide_border=true"/></a>
+<a href="https://github.com/nasir-ds/heart-disease-predictor"><img src="https://github-readme-stats-8n62hd71k-nasir-khan1.vercel.app/api/pin/?username=nasir-ds&repo=heart-disease-predictor&theme=synthwave&hide_border=true"/></a>
+<a href="https://github.com/nasir-ds/campuseats-analytics-dashboard"><img src="https://github-readme-stats-8n62hd71k-nasir-khan1.vercel.app/api/pin/?username=nasir-ds&repo=campuseats-analytics-dashboard&theme=synthwave&hide_border=true"/></a>
 <br/>
-<a href="https://github.com/nasir-ds/online-retail-sales-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=online-retail-sales-analysis&theme=synthwave&hide_border=true"/></a>
-<a href="https://github.com/nasir-ds/world-cup-2026-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=world-cup-2026-analysis&theme=synthwave&hide_border=true"/></a>
+<a href="https://github.com/nasir-ds/online-retail-sales-analysis"><img src="https://github-readme-stats-8n62hd71k-nasir-khan1.vercel.app/api/pin/?username=nasir-ds&repo=online-retail-sales-analysis&theme=synthwave&hide_border=true"/></a>
+<a href="https://github.com/nasir-ds/world-cup-2026-analysis"><img src="https://github-readme-stats-8n62hd71k-nasir-khan1.vercel.app/api/pin/?username=nasir-ds&repo=world-cup-2026-analysis&theme=synthwave&hide_border=true"/></a>
 <br/>
-<a href="https://github.com/nasir-ds/zomato-data-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=zomato-data-analysis&theme=synthwave&hide_border=true"/></a>
-<a href="https://github.com/nasir-ds/online-store-sales-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=online-store-sales-analysis&theme=synthwave&hide_border=true"/></a>
+<a href="https://github.com/nasir-ds/zomato-data-analysis"><img src="https://github-readme-stats-8n62hd71k-nasir-khan1.vercel.app/api/pin/?username=nasir-ds&repo=zomato-data-analysis&theme=synthwave&hide_border=true"/></a>
+<a href="https://github.com/nasir-ds/online-store-sales-analysis"><img src="https://github-readme-stats-8n62hd71k-nasir-khan1.vercel.app/api/pin/?username=nasir-ds&repo=online-store-sales-analysis&theme=synthwave&hide_border=true"/></a>
 <br/>
-<a href="https://github.com/nasir-ds/pakistan-crime-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ds&repo=pakistan-crime-analysis&theme=synthwave&hide_border=true"/></a>
+<a href="https://github.com/nasir-ds/pakistan-crime-analysis"><img src="https://github-readme-stats-8n62hd71k-nasir-khan1.vercel.app/api/pin/?username=nasir-ds&repo=pakistan-crime-analysis&theme=synthwave&hide_border=true"/></a>
 
 </div>
 </details>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nasir-ds&theme=synthwave&hide_border=true&area=true"/>
-</div>
 
 ---
 
