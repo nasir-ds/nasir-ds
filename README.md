@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Nasir%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Deep%20Learning%20%26%20NLP%20Engineer&descAlignY=52&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I%20am%20Nasir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Deep%20Learning%20%26%20NLP%20Engineer&descAlignY=52&descAlign=50&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Building+neural+networks+with+PyTorch+%F0%9F%94%A5;Turning+raw+data+into+real+decisions+%F0%9F%93%8A;LSTM+%7C+NLP+%7C+Computer+Vision+%7C+Dashboards)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Building+neural+networks+with+PyTorch;Turning+raw+data+into+real+decisions;LSTM+%7C+NLP+%7C+Computer+Vision+%7C+Dashboards)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,23 +22,22 @@
 
 <br/>
 
-## 🧠 About Me
+## About Me
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
-- 🎓 BSc Data Science @ **IMS Peshawar**
-- 🔭 Currently building **deep learning & NLP models** in PyTorch
-- 🧪 Recently shipped: a **Bidirectional LSTM sentiment classifier** (86.84% accuracy) trained from scratch with GloVe embeddings
-- 🌱 Learning: **Transformers & attention mechanisms** (BERT fine-tuning is next)
-- 💬 Ask me about: ML pipelines, EDA, LSTMs, or Streamlit dashboards
-- 📫 Reach me: **nu0748312@gmail.com**
-- ⚡ Fun fact: I argue with data until it tells me the truth
+- BSc Data Science @ **IMS Peshawar**
+- Currently building **deep learning & NLP models** in PyTorch
+- Recently shipped: a **Bidirectional LSTM sentiment classifier** (86.84% accuracy) trained from scratch with GloVe embeddings
+- Learning: **Transformers & attention mechanisms** (BERT fine-tuning is next)
+- Ask me about: ML pipelines, EDA, LSTMs, or Streamlit dashboards
+- Reach me: **nu0748312@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -49,7 +48,6 @@
 <div align="center">
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
@@ -58,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <table align="center">
 <tr>
@@ -71,9 +69,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasir-ds&theme=synthwave&hide_border=true"/>
 </div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nasir-ds&theme=synthwave&hide_border=true&area=true"/>
+</div>
+
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -101,7 +103,7 @@
 </div>
 
 <details>
-<summary align="center"><b>📂 More projects</b></summary>
+<summary align="center"><b>More projects</b></summary>
 <br/>
 <div align="center">
 
@@ -121,22 +123,22 @@
 
 ---
 
-## 🎓 Education
+## Education
 
-- 🏛️ **BSc Data Science** — Institute of Management Sciences (IMS), Peshawar *(2022–Present)*
-- 📜 Machine Learning (Coursera/Andrew Ng) · Data Analysis with Python (Kaggle) · SQL for Data Science (Coursera)
+- **BSc Data Science** — Institute of Management Sciences (IMS), Peshawar *(2022-Present)*
+- Machine Learning (Coursera/Andrew Ng) | Data Analysis with Python (Kaggle) | SQL for Data Science (Coursera)
 
 ---
 
 <div align="center">
 
-### 📫 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasir-ullah-khan-wazir-85b27a346)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nu0748312@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nasir-khan-portfolio-bay.vercel.app/)
 
-*"Without data, you're just another person with an opinion." — W. Edwards Deming*
+*"Without data, you're just another person with an opinion." - W. Edwards Deming*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
